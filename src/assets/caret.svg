@@ -1,0 +1,23 @@
+<svg width="12px" height="8px" viewBox="0 0 12 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path d="M23.8828427,14.2828427 L19.2899495,9.68994949 C18.9033502,9.30335017 18.9033502,8.67654882 19.2899495,8.28994949 C19.6765488,7.90335017 20.3033502,7.90335017 20.6899495,8.28994949 L24.5899495,12.1899495 L28.4899495,8.28994949 C28.8765488,7.90335017 29.5033502,7.90335017 29.8899495,8.28994949 C30.2765488,8.67654882 30.2765488,9.30335017 29.8899495,9.68994949 L25.2970563,14.2828427 C24.906532,14.673367 24.273367,14.673367 23.8828427,14.2828427 Z" id="path-1"></path>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="filter_bar_v2/all_applied" transform="translate(-47.000000, -46.000000)">
+            <g id="Group-7">
+                <g transform="translate(0.000000, 22.000000)">
+                    <g id="Group-19-Copy" transform="translate(0.000000, 16.000000)">
+                        <g id="Group-18" transform="translate(0.000000, 0.500000)">
+                            <g id="global/chevron-down" transform="translate(28.000000, 0.000000)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Shape" fill="#49A299" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

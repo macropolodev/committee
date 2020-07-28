@@ -1,0 +1,767 @@
+@media screen and (min-width: 1100px) and (max-width: 2500px){
+    .container { width:1070px; } 
+}
+
+@media screen and (max-width: 1440px){
+    /*.intro-blog-info ul {padding: 0 0 0 55px; margin:0;}*/
+    img.two-fen-logo-main{top: 16%; height: 35px;}
+    .intro-blog-info ul{ margin-bottom:0px;}
+
+}
+
+@media screen and (max-width: 1330px){
+    /*img.two-fen-logo-main {top: 25%;}*/
+    .intro-blog-info ul{ padding:0px;}
+    .header-blog h1{  font-size: 45px; line-height: 50px;}
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+
+}
+@media screen and (max-width: 1199px){
+    /******************  POPUP  ***********************/
+    .pop-up.large{ margin-left: -496px; width:992px;}
+    .nav-large .wsmenu-submenu{ right:-125px;}
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+}
+
+@media screen and (max-width: 1100px){
+
+    .container { width:950px; } 
+    .wsmenu-list > li{ padding:0 12px;}
+    .wsmenu-list > li:last-child i{display:block !important;}
+    #collapse_show {width:900px;}
+    .slider-img, .inner-hero{height: 550px;}
+    .hero-section .title{font-size: 27px;}
+    .fdi-content h2, .reformopedia-content h2{font-size: 26px; line-height: 36px;}
+    .blog-content{padding: 15px !important;}
+    .blog-listing span{margin-bottom: 14px;}
+    .blog-listing p{margin-bottom: 14px; font-size: 15px;}
+    .blog-listing .author{line-height: 18px;}
+
+    /****************** ABOUT US ***********************/
+    .header-inner .wsmenu { margin-top: 30px;}
+
+    /****************** BLOG US ***********************/
+
+    .header-blog .wsmenu-list > li {padding: 0 10px;}
+    .header-blog h1, .blog-single-wrapper h1{font-size: 36px; line-height: 40px; margin: 10px 0 20px 0;}
+    .blog-post-wrapper h2{ font-size: 40px; line-height: 46px; padding: 0 20% 0 0;}
+    .blog-post-wrapper.even h2{padding: 0 0 0 20%;}
+
+    /****************** BLOG SINGLE ***********************/
+    .blog-single-wrapper h1{padding: 0 20% 0 0;}
+
+    /****************** ANALYSIS ***********************/
+    .analysis-hero-text h1{font-size: 32px;line-height: 36px;}
+    .analysis-hero-text h1 a{font-size: 32px;line-height: 36px;}
+    .analysis-blog-wrapper h2{font-size: 24px;line-height: 28px;}
+    ul.blog-nav li{ padding:0 0px; font-size: 13px;}
+
+    /******************  THINKTANK  ***********************/
+    .thinktank-blog-wrapper h2{font-size: 24px; line-height:28px;}
+
+    /******************  THINKTANK DETAIL  ***********************/
+    .thinktank-single-wrapper h1{font-size:30px; line-height:34px;}
+
+    /******************  SEARCH HOME  ***********************/
+    .home-search { padding-top:40px;}
+    .home-search .heading { margin-bottom:50px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+    .interactive-timeline .map-sec{ height:450px;}
+
+    /****************** Interactive Timeline ***********************/
+    ul.timeline-nav li{font-size: 13px;padding: 0 6px;}
+
+    /* my css*/
+    .category-news-content ul li.third-li{display:none;}
+
+
+    /******************  POPUP  ***********************/
+    .pop-up.large{ margin-left: -450px; width:900px;}
+    .pop-up-content .container { max-width: 800px;}
+    .popup-hero{ font-size: 55px;}
+
+    img.two-fen-logo-main{/*top: 20%;*/ left: -30px; height:30px;}
+    img.two-fen-logo-single{left: -30px; height:30px;}
+    #search-suggestion-policy { width: 920px}
+    .text-large, .stuff-page .text-large p { font-size: 19px;}
+
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+}
+@media screen and (min-width: 991px) and (max-width: 1101px) {
+    .wsmenu-list > li { font-size: 12px; padding: 0 10px;}
+    .wsmenu-submenu li {padding: 0 5px;}
+    .wsmenu-submenu li a {font-size: 12px;}
+}
+
+@media screen and (max-width: 991px){
+
+    body { font-size: 16px; line-height: 22px;}
+    .container { width:100%; }  
+    .other-logo{ margin-right:100px;} 
+    .wsoffcanvasopener .wsmenu{padding:0px;}
+    .header-blog .navigation-right{width: 65%;}
+    .wsmenu .wsmenu-list{ width:100%;}
+    .wsmenu .wsmenu-list > li{ padding:0;}
+    .wsmenu > .wsmenu-list > li > a i{ color:#FFF;}
+    .wsmenu-list > li > a:before{ display:none;}
+    .wsmenu-submenu{ left: 0; min-width: 100%;}
+    .wsmenu-submenu li{ width:100%;}
+    #collapse_show {width:650px; top: 28px;}
+    .search-top-main{right: 60px; top: 0;}
+    .search-toggle{/* border:1px solid #3f4c4e;*/ width:36px; height:36px; line-height:34px;}
+
+    .mobile-sub li span.wsmenu-click, .mobile-sub li span .wsmenu-click.ws-activearrow  {
+        width: 40px;}
+
+    .blog-listing .row .col-md-6{display: inline-block; min-height: 150px;}
+    .blog-listing ul{ font-size:0;}
+    .blog-listing ul li{float: none; width: 49.98%; display:inline-block; vertical-align:top;}
+    .slider-img, .inner-hero{height: 470px;}
+    .hero-section .title{font-size: 24px;}
+    .section-main{padding: 40px 0;}
+    .section-main h1, .section-main h2{ font-size: 32px; line-height: 40px;}
+    .blog-listing h2{font-size: 13px; line-height: 18px;}
+    .fdi-content h2, .reformopedia-content h2{ font-size: 24px; line-height: 32px;}
+    .fdi-content, .reformopedia-content{padding-top: 30px;}
+    .think-tank-category h2{font-size: 13px; line-height: 18px;}
+    .think-tank-category{padding-right: 0;}
+    .think-tank-more{ padding: 15px 0px 0 0;}
+
+    /****************** ABOUT US ***********************/
+    .header-blog .search-top-main { top: 1px;}
+    .header-inner .wsmenu{ margin-top:0;}
+    .sidebar{ padding-left: 0;}
+    .sidebar h2{font-size: 20px;}
+    .fdi-side{margin-bottom: 40px;}
+    .text-large, .stuff-page .text-large p{font-size: 17px; line-height: 28px;}
+
+    .about-page p{font-size: 17px; line-height: 26px;}
+    .text-large p{font-size:18px;}
+
+    /****************** BLOG US ***********************/
+    img.two-fen-logo-main{height: 26px; top: 20%;}
+    .header-blog h1{font-size: 28px; line-height: 32px; margin-top:0;}
+    .blog-post-wrapper h2, .blog-single-wrapper h1{ font-size: 34px; line-height: 40px; padding: 0 10% 0 0;}
+    .blog-post-wrapper.even h2{padding: 0 0 0 10%;}
+    .blog-post-wrapper{padding: 50px 0;}
+    .blog-post-wrapper .learn-more{font-size: 16px;}
+    .blog-post-wrapper .learn-more i {font-size: 18px;}
+    .blog-post-wrapper p{padding: 0 20% 0 0;}
+    .blog-post-wrapper.even p { padding: 0 0 0 20%;}
+    .header-blog .slider-text p { font-size: 16px; line-height: 24px;}
+
+    .blog-nav-main{padding:15px 0; height:auto;}
+    .tinynav { border: none; position:relative; display: block; height: 46px; width: 100%; background: #3f4c4e ; color:#FFF; font-size: 14px; text-transform: uppercase; /*appearance:none; -webkit-appearance:none; -moz-appearance:none;*/}
+    /*
+    .tinynav_label::before{ display: block; content:"\f078"; position: absolute; font-size:17px; color:#fff; right:0; z-index: 1; font-family: "FontAwesome";}
+    */
+    /*
+    .tinynav_label{ display: block; font-size:0;}
+    */
+    #blog-nav, #timeline-nav{ display: none }
+    .tinynav select:focus > option:checked, .tinynav select:focus > optgroup > option:checked { background-color: rgba(0,0,0,0.5) !important; color: highlighttext !important;}
+
+
+    .header-blog .wsmenu {margin-top:0px;}
+    ul.blog-nav li{ padding:0 5px;}
+
+
+
+    /****************** BLOG SINGLE ***********************/
+    .page-content, .map-product{padding-top: 110px;}
+    .blog-single-content p{font-size: 18px; line-height: 30px;}
+    .blog-single-content ul li{font-size:18px; line-height:30px;}
+    .sidebar-block h2, .blog-single-content-more h2{font-size: 14px; line-height: 20px;}
+    .sidebar-block{margin-bottom: 40px;}
+    .blog-post-similar p{font-size: 15px; line-height: 20px;}
+    .blog-post-similar{padding-top: 25px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+
+    .interactive-map h1{font-size: 26px; line-height:30px;}
+    .interactive-map h2{font-size: 16px; line-height: 22px;}
+    .map-sec iframe {height:465px !important;}
+    .popup-stats-detail{padding-bottom:20px;}
+
+    /****************** CHINESE FIRMS DATABASE ***********************/
+    .chinese-firms-database {padding-bottom: 0;}
+    .data-search-slider .slick-dots li button::before{font-size: 36px;}
+    .data-search-slider .slick-dots{bottom: -35px;}
+    .data-search-slider .slick-dots li{ margin:0;}
+    .category-news{margin-top:100px;}
+    .category-news-content ul li{width:100%;}
+
+    /****************** AGRICULTURE ***********************/
+    .agriculture h1{font-size: 26px;line-height: 30px;}
+    .agriculture-result-main{padding:0px;}
+    .agriculture-result h2{ font-size: 20px; line-height: 22px;}
+    .filter-main .btn{ min-width:150px;}
+    .filter-main h2{font-size: 22px; line-height:26px; margin-bottom:5px;}
+
+    /****************** AGRICULTURE DETAIL ***********************/
+    .agriculture-company-detail h2{font-size:28px;line-height: 28px;}
+    .company-overview h2{font-size: 22px;line-height: 22px;}
+    .agriculture hr{ margin:30px 0;}
+    .company-name{margin-bottom:30px;}
+    .agriculture .data-search .result{ font-size:26px; padding:15px 0 50px 0;}
+
+    /****************** POLICY LIBRARY ***********************/
+    .policy-library-category{padding-top: 10px;}
+
+    /****************** POLICY DETAIL ***********************/
+    .policy-detail ul.blog-nav li a{ padding:0;}
+
+    /****************** ANALYSIS ***********************/
+    .analysis-blog-wrapper{padding: 0 0 50px 0;}
+    .analysis-hero-text h1{font-size: 28px;line-height:32px;}
+    .analysis-hero-text h1 a{font-size: 28px;line-height: 32px;}
+    .analysis-blog-wrapper h2{font-size: 22px;line-height: 26px;}
+    .analysis-blog-image{width: 290px;}
+    .analysis-blog-info{margin-left: 319px;min-height: 195px;}
+    .analysis-hero-text .slider-text p{ padding:0;}
+    .analysis-hero-text{padding: 45px 0;}
+    .analysis ul.blog-nav li a { padding:0px;}
+    ul.blog-nav li:hover > .submenu{ transform: translateX(0) !important; -moz-transform: translateX(0) !important; -webkit-transform: translateX(0) !important; left:0;text-align: left;}
+
+    /******************  THINKTANK  ***********************/
+    .thinktank-blog-wrapper h2{font-size: 20px;line-height: 24px;}
+    .thinktank-blog-image{width: 180px;}
+    .thinktank-blog-info{margin-left: 210px; min-height:125px;margin-top:0px;}
+    .thinktank-blog .learn-more{left: 50%;  transform: translateX(-45%);}
+
+    /******************  THINKTANK DETAIL  ***********************/
+    .thinktank-single-wrapper h1{font-size:26px; line-height:30px;}
+    .thinktank-single-wrapper .thinktank-blog-image{height: 350px; margin: 20px 0 40px 0;}
+    .download-pdf {min-width:160px; font-size: 15px;}
+    .download-pdf p{ font-size: 15px;}
+    .thinktank-single-wrapper p, .about-the-author .subtitle{font-size: 18px;}
+    .author-detail .subtitle{font-size: 18px;}
+    .about-the-author{padding-top: 20px;}
+    .about-the-author h2{font-size: 24px; line-height: 27px;}
+    .about-the-author p{font-size: 15px;}
+    .author-detail p{font-size: 15px;}
+
+    /******************  SEARCH HOME  ***********************/
+    .home-search { padding-top:30px;}
+    .home-search .heading { margin-bottom:50px;}
+    .home-search .text-group h2{ font-size:18px; color:#3c9287;font-family:'Avenir Medium'; margin-bottom:5px; line-height:22px;}
+    .home-search .text-group { padding-bottom:20px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+    .interactive-timeline .map-sec{ height:400px;}
+    .timeline-nav-main .tinynav { display: block; height: 44px; width: 100%; background: #3f4c4e; border:none; color:#FFF; font-size: 14px; }
+    .timeline-nav-main #timeline-nav {display: none;}
+    .tinynav option { padding:7px 20px;}
+
+
+    /* my css*/
+    .category-news-content ul li{width:auto;}
+
+
+    /******************  POPUP  ***********************/
+    .pop-up.large{ margin-left: -375px; width:750px; max-width: inherit;}
+    .pop-up-content .container { max-width: 100%;}
+    .industries-graph { margin: 50px 0 20px 0;}
+    .popup-hero{ font-size: 50px;}
+    .popup-detail{padding: 30px 0 0;}
+    .jumpto-heading{ font-size: 22px;}
+    .jumpto-sub-heading{font-size: 18px;}
+
+    /******************  Our Team  ******************/
+    .team-name{font-size: 26px;}
+    .team-sub-title{font-size: 18px;}
+    .our-team-main .row { margin: 0 -15px;}
+    .our-team-main ul li{ padding: 0 15px; width: 24.5%;}
+    .our-team-name{font-size: 18px;}
+    .our-team-name strong{font-size: 16px;}
+    #search-suggestion-policy {
+        width: 738px;
+    }
+
+    .nav-large .wsmenu-submenu{ right:0px;}
+    .header-overlay{ height: 150px;}
+    .two-fen-logo::before{ background-size:auto 33px; left: -62px;}
+    .two-fen-logo::after{ background-size:auto 33px; left: -2000px;}
+    .two-fen-logo{ padding-left: 100px;}
+
+    .stuff-page .interests-stuff .interests-input{ width: 49%;}
+    .stuff-page .email, .stuff-page .interests-stuff { margin-bottom: 35px;}
+
+    .header-blog .slider-text .author {font-size: 18px; margin-bottom: 10px;}
+    .author-post-info {font-size: 18px; margin-bottom: 20px; line-height: 15px;}
+    .author-page-post-info {font-size: 17px; margin-bottom: 20px; line-height: 15px;}
+    .blog-post-info .author { font-size: 18px;}
+
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+    .jump-section a.map-collaps { right:10px; }
+    .jump-section a.map-collaps-hide { right:10px; }
+    #tl-stage-image{ left:0 !important;}
+    .intro-blog-info ul li { top:0;}
+    /*.timeline-iframe iframe { height: 465px; width:101%;}*/
+
+    .btn-group.bootstrap-select.tinynav.tinynav1{display: block; width:100% !important;}
+    .btn-group.bootstrap-select.tinynav.tinynav1 .btn { border: none; position:relative; display: block; height: 46px; width: 100%; background: #3f4c4e ; color:#FFF; font-size: 14px; text-transform: uppercase; appearance:none; -webkit-appearance:none; -moz-appearance:none;}
+    .btn-group.bootstrap-select.tinynav.tinynav1 .dropdown-menu.open{ padding:0px; border:none; margin-top:1px; border-radius: 0; -webkit- border-radius: 0; -moz border-radius: 0;}
+    .btn-group.bootstrap-select.tinynav.tinynav1.open .dropdown-menu li{  margin:0; padding:0px;}
+    .btn-group.bootstrap-select.tinynav.tinynav1.open .dropdown-menu li:before{content:"";}
+    .btn-group.bootstrap-select.tinynav.tinynav1.open .dropdown-menu li a{ background: #3f4c4e ; color:#FFF; font-size: 14px; padding: 7px 20px }
+    .btn-group.bootstrap-select.tinynav.tinynav1.open .dropdown-menu li a:hover, .btn-group.bootstrap-select.tinynav.tinynav1.open .dropdown-menu li a:focus{ background:#49A299;}
+
+}
+
+@media screen and (max-width: 767px){
+    .owl-dots { bottom: 10px;}  
+    #collapse_show {width:550px;}
+    #collapse_show .input-text, #collapse_show .search-suggestion .title{font-size: 18px;}
+    #collapse_show .search-suggestion ul{ padding:10px;}
+    #collapse_show .search-suggestion ul li{ font-size:15px; margin-bottom:4px;}
+    .slider-img, .inner-hero{height: 400px;}
+    .section-main{padding: 30px 0;}
+    .section-main h1, .section-main h2{font-size: 26px; line-height: 30px;}
+    .blog-listing h2{font-size: 13px; line-height: 18px;}
+    .fdi-content h2, .reformopedia-content h2{ font-size: 20px; line-height: 24px;}
+    .think-tank-category h2{font-size: 13px; line-height: 18px;}
+    .blog-listing .row{ width:100%; display:inline-block;}
+    /*.blog-listing ul li{width: 100%;}
+    .blog-listing .row .col-md-6{ min-height: inherit;}*/
+    .blog-listing .row .col-md-6{ min-height: 150px;}
+    .blog-listing p{height: auto;}
+    .slider-img, .inner-hero {height: 350px;}
+    .blog-hero {height: 400px;}
+    .slider-main .slick-dots{bottom: 0; z-index:0;}
+    .slider-text{max-width: 100%; right:15px; bottom: 40px;}
+    .hero-section .title {font-size: 22px; margin-bottom: 20px;}
+    .hero-section .heading::before{bottom: 7px;}
+    .navigation-right{ width: auto;}
+    .fdi-map, .reformopedia-map, .fdi-content, .reformopedia-content, .think-tank-category, .think-tank-more{ text-align:center;}
+    /*footer ul{ float:left;}*/
+    footer ul li{padding: 0 5px; line-height:20px;}
+    footer ul li:first-child{ padding-left:0;}
+    footer p{ line-height:18px;}
+    footer ul.social{ margin-top:-7px; padding:0;}
+    footer ul.social li a{font-size: 16px;}
+    footer{ padding:10px 0;}
+    .header-blog .slider-text { padding: 30px 0 50px 0; }
+
+    /****************** ABOUT US ***********************/
+    .header-blog .navigation-right {width: auto;}
+    .sidebar{ padding-top:40px;}
+    .sidebar h2{font-size: 20px;}
+    .fdi-side, .reformopedia-side{margin-bottom: 30px; text-align:center;}
+    .text-large, .stuff-page .text-large p{font-size: 18px; line-height: 26px;}
+    .about-page p{font-size: 16px; line-height: 24px;}
+    .text-large p{font-size: 18px;}
+    .footer-inner .footer-logo, .footer-blog .footer-logo{ width:110px;}
+    .footer-inner .text-left{ text-align:right;}
+    .footer-inner .text-right{ margin-top:10px;}
+    .footer-inner p{ line-height:30px;}
+    .footer-inner ul.social{ margin:0;}
+
+    /****************** BLOG ***********************/
+    /*.intro-blog-info {padding-top: 25px;}*/
+    .two-fen-logo{padding-top: 0px;}
+    img.two-fen-logo-main{top: 22%;}
+    .header-blog h1{font-size: 22px; line-height: 24px;margin: 10px 0; }
+    .blog-post-wrapper{padding: 30px 0;}
+    .blog-post-info ul li{ margin:4px 0; padding:0; font-size: 14px;}
+    .blog-post-wrapper h2, .blog-single-wrapper h1{ font-size: 26px; line-height: 32px; padding:0;}
+    .blog-post-wrapper.even h2{padding:0;}
+    .blog-post-wrapper .learn-more{font-size: 14px;}
+    .blog-post-wrapper .learn-more i {font-size: 16px;}
+    .blog-post-wrapper p{padding: 0; font-size:15px;}
+    .blog-post-wrapper.even p { padding:0;}
+    .header-blog .slider-text p { font-size: 15px; line-height: 22px; margin-bottom:10px;}
+    .intro-blog-info ul li{font-size: 14px; margin: 2px 0;}
+
+
+
+    /****************** BLOG SINGLE ***********************/
+    .page-content, .map-product{padding-top: 110px;}
+    .blog-single-content p{font-size: 16px; line-height: 26px;}
+    .blog-single-content ul li{font-size: 16px; line-height: 26px;}
+    .blog-single-content blockquote{font-size: 16px; line-height: 26px;}
+    .sidebar-block h2, .blog-single-content-more h2{font-size: 14px; line-height: 20px;}
+    .blog-single-content-more h2{ margin:0;}
+    .sidebar-block{margin-bottom: 30px;}
+    .blog-post-similar p{font-size: 15px; line-height: 20px;}
+    .blog-post-similar{padding-top: 25px;}
+    .footer-blog .footer-logo{ margin-top:-10px;}
+
+
+    /****************** INTERACTIVE MAP ***********************/
+
+    .breadcrumb > li{ font-size:14px;}
+    .interactive-map h1{font-size: 24px; line-height:27px;}
+    .interactive-map h2{font-size: 16px; line-height: 22px;}
+    .map-sec iframe {height:370px !important;}
+    .popup-stats-detail{padding-bottom:15px;}
+
+    /****************** CHINESE FIRMS DATABASE ***********************/
+    .chinese-firms-database {padding-bottom: 0;}
+    .category-news{margin-top:60px; padding-bottom:15px;}
+    .category-news-content { margin-left: 0px; margin-top:60px; line-height:22px;}
+    .category-news-content ul li{ padding:0 15px; white-space: nowrap;}
+
+    /****************** CHINESE FIRMS DATABASE SEARCH ***********************/
+    #data-search{font-size: 16px;}
+    #data-search .search-suggestion ul{padding: 10px 10px 10px 50px;}
+    #data-search .search-suggestion .title {font-size: 19px;}
+
+
+    /****************** AGRICULTURE ***********************/
+    .agriculture h1{font-size: 22px;line-height:26px;}
+    .agriculture-result-main{padding:50px 0 0 0;}
+    .agriculture-result h2{ font-size: 20px; line-height: 24px;}
+    .filter-main h2{font-size: 20px; line-height:24px;}
+    .agriculture-thumb{width: 50px;}
+    .agriculture-result-content{margin-left: 75px;}
+
+    /****************** AGRICULTURE DETAIL ***********************/
+    .agriculture-company-detail h2{font-size:24px;line-height: 24px;}
+    .company-overview h2{font-size: 20px;line-height: 20px;}
+    .company-name{min-height: 90px;}
+    .agriculture-company{margin-left: 70px;}
+    .pl-30 {padding-left:0px; padding-top:30px;}
+    .agriculture .data-search .result{ font-size:22px; padding:15px 0 30px 0;}
+
+    /****************** POLICY DETAIL ***********************/
+    .policy-content-right{padding-left: 0; padding-bottom:20px;}
+    /*#no-more-tables table, #no-more-tables tbody, #no-more-tables tr {border-radius: 10px 10px 0px 0px; -webkit-border-radius: 10px 10px 0px 0px; -moz-border-radius:10px 10px 0px 0px;}*/
+    #no-more-tables table, 	#no-more-tables thead, 	#no-more-tables tbody, 	#no-more-tables th, #no-more-tables td, #no-more-tables tr { display: block; }
+    #no-more-tables thead tr { position: absolute;top: -9999px;left: -9999px; background:#ff6600;}
+    /*#no-more-tables tr { border: 1px solid #ccc;  }*/
+    #no-more-tables td { border: none;border-bottom: 1px solid #eee; position: relative;padding-left:30% !important; white-space: normal;text-align:left;}
+    #no-more-tables td:before { position: absolute;	top: 6px;left: 6px;	width: 30%; padding-right: 10px; white-space: nowrap;text-align:left;font-weight: bold;}
+    #no-more-tables td:before { content: attr(data-title); }
+
+    #no-more-tables thead tr th:nth-child(1), #no-more-tables tbody  tr td:nth-child(1){ width:100%; text-align:left;}
+    #no-more-tables thead tr th:nth-child(2), #no-more-tables tbody  tr td:nth-child(2){ width:100%;text-align:left;}
+    #no-more-tables thead tr th:nth-child(3), #no-more-tables tbody  tr td:nth-child(3){ width:100%;text-align:left;}
+    #no-more-tables thead tr th:nth-child(1){width:100%;text-align:left;}
+    #no-more-tables td.policy-show-main { padding: 0px !important; float:left;}
+    #no-more-tables tbody  tr { width:100%; float:left;}
+
+    /****************** ANALYSIS ***********************/
+    .analysis-blog-wrapper{padding: 0 0 30px 0;}
+    .analysis-hero-text h1{font-size: 26px;line-height:30px;}
+    .analysis-hero-text h1 a{font-size: 26px;line-height: 30px;}
+    .analysis-blog-wrapper h2{font-size: 20px;line-height: 24px;}
+    .analysis-blog-image{width: 290px;}
+    .analysis-blog-info{margin-left: 319px;min-height: 195px;}
+    .analysis-hero-text{padding: 20px 0;}
+
+    /******************  THINKTANK  ***********************/
+    .thinktank-blog-wrapper h2{font-size: 18px;line-height: 22px;}
+    .thinktank-blog .learn-more{left:auto;  transform: translateX(0);}
+    .thinktank .text-large{margin-bottom: 40px;}
+    .thinktank-blog-image{width: 290px;}
+    .thinktank-blog-info{margin-left: 319px; min-height:195px;margin-top:0px;}
+    .thinktank-blog-wrapper { padding:0 0 30px 0;}
+
+    /******************  THINKTANK DETAIL  ***********************/
+    .thinktank-single-wrapper h1{font-size:22px; line-height:26px;}
+    .thinktank-single-wrapper .thinktank-blog-image{height: 300px; margin: 20px 0 40px 0;}
+    .download-pdf {min-width:140px; font-size: 14px;}
+    .download-pdf p{ font-size: 15px;}
+    .thinktank-single-wrapper p, .about-the-author .subtitle{font-size: 18px;}
+    .author-detail .subtitle{font-size: 18px;}
+    .about-the-author{padding-top: 20px;}
+    .about-the-author h2{font-size: 22px; line-height: 24px;}
+    .about-the-author p{font-size: 15px;}
+    .author-detail p{font-size: 15px;}
+
+    /******************  SEARCH HOME  ***********************/
+    .home-search .text-group h2{ font-size:16px; line-height:20px;}
+    .home-search .text-group { padding-bottom:20px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+    .interactive-timeline .map-sec{ height:350px;} 
+    .popup-tooltip-content { max-width: 100%; }
+    .gm-style-iw { width: 248px !important; }
+    .gm-style-iw > div { max-width: 100%!important;}
+
+
+    /*my css*/
+    /*.category-news-content ul li{margin-bottom:10px;}*/
+    .category-news{padding-bottom: 0;}
+    .category-news-content ul li.second-li{display:none;}
+    .category-news-content {line-height: 19px;  margin-top: 16px; margin-left: 170px !important;}
+ 
+    .error-img img{margin-top:80px;}
+    .error-img p {font-size: 20px;}
+    .error-img b {font-size: 20px;}
+
+    /******************  POPUP  ***********************/
+    .pop-up.large{ margin-left: -45%; width:90%;}
+    .popup-hero{ font-size: 40px;}
+    .popup-detail .text-group:last-child {padding-bottom:15px;}
+    .jump-links{margin-top: 20px;}
+    #back-to-top{right: 50px;top: 25px;}
+    .jumpto-heading{ font-size: 20px;}
+    .jumpto-sub-heading{font-size: 16px;}
+
+    img.two-fen-logo-main {/*top: 22%; */height:25px;}
+    img.two-fen-logo-single{left: -30px; height:25px; bottom:-50px;}
+    .intro-blog-info ul{ padding:0;}
+
+    /******************  Our Team  ******************/
+    .our-team-popup{padding:30px 15px 30px 30px;}
+    .team-name{font-size: 22px;}
+    .team-sub-title{font-size: 16px; margin-bottom: 15px;}
+    .our-team-main ul li{ padding: 0 15px; max-width: inherit; width:32.7%;}
+    .our-team-main ul li .our-team-thumb img{ width:100%;}
+
+    #search-suggestion-policy { width: 100%;}
+    .policy-content .learn-more {margin-bottom: 20px; margin-top: 20px; display: inline-block;}
+
+
+    .header-overlay{ height: 110px;}
+    .two-fen-logo::before{ background-size:auto 25px; left: -45px;}
+    .two-fen-logo::after{ background-size:auto 25px; left: -2000px;}
+    .two-fen-logo{ padding-left: 80px; height:40px;}
+
+    .stuff-page .email, .stuff-page .interests-stuff { margin-bottom: 30px;}
+    /*.intro-blog-info ul li{ top:5px;}*/
+
+    .header-blog .slider-text .author {font-size: 16px; margin-bottom: 10px;}
+    .author-post-info {font-size: 16px; margin-bottom: 10px; line-height: 10px;}
+    .author-page-post-info {font-size: 16px; margin-bottom: 10px; line-height: 10px;}
+    .blog-post-info .author { font-size: 16px;}
+
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+    #tl-header .tl-main-title{ left:15px !important;}
+    .intro-blog-info{padding-top: 40px;}
+    /*.timeline-iframe iframe { height: 375px;}*/
+
+    .popup-stats-detail .row .col-md-4 { width:33.3333%;}
+    .popup-stats-detail .row .col-md-8 { width:66.6667%;}
+    .text-center.load-more { margin-bottom:30px;}
+
+}
+
+
+@media screen and (max-width: 640px){
+
+    .animated-arrow{margin:10px 0 0 15px;}
+    #collapse_show {width:400px;}
+    .header-top{top: 12px;}
+    #collapse_show .result{ line-height:normal; padding-top:10px;}
+    .logo{ width:140px;}
+    .other-logo{margin-top: 7px;}
+    .search-top-main{ top: 12px;}
+    .header-blog h1{font-size: 22px; line-height: 27px; margin-top:0;}
+    img.two-fen-logo-main{top: 18%;}
+    .blog-post-wrapper h2, .blog-single-wrapper h1{ font-size: 22px; line-height: 27px;}
+    .header-blog .slider-text p { font-size: 14px; line-height: 20px;}
+    .blog-listing .row .col-md-6{ min-height: 150px;}
+
+    /****************** BLOG SINGLE ***********************/
+    .header-blog .search-top-main {top: 10px;}	
+    .page-content, .map-product { padding-top: 80px;}
+
+    /****************** CHINESE FIRMS DATABASE SEARCH ***********************/
+    #data-search .result{position: relative; background-color:transparent; padding:0;}
+    #collapse_show .result{position: relative; float:left; background: #1b383c; line-height: 56px; padding:0 15px; width:100%; text-align:right; color:#FFF;}
+    #collapse_show .input-text, #data-search .input-text{padding-right:15px;}
+    #collapse_show .search-suggestion{ margin-top:56px;}
+
+    /****************** AGRICULTURE DETAIL ***********************/
+    .agriculture-company-detail h2{font-size:22px;line-height: 22px;}
+    .company-overview h2{font-size:20px;line-height: 20px;}
+    .agriculture-company-detail .title{ font-size:14px;}
+
+    /****************** ANALYSIS ***********************/
+    .analysis-hero-text h1{font-size: 24px;line-height:28px;}
+    .analysis-hero-text h1 a{font-size: 24px;line-height: 28px;}
+    .analysis-blog-image{width: 50%; position:relative; margin-bottom:22px; float:left;}
+    .analysis-blog-info{margin-left: 0px;min-height: inherit; width:50%; float:left; padding-left:20px;}
+
+    /******************  THINKTANK  ***********************/
+    .thinktank-blog-image {width: 100%; position:relative; margin-bottom:10px;}
+    .thinktank-blog-info{ margin:0; min-height:inherit; margin-bottom:25px;}
+
+    #collapse_show .result, #data-search .result { padding:0 15px;}
+    .firms-database #data-search .result { position: absolute; }
+    .header-overlay{ height: 90px;}	
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+    /*.timeline-iframe iframe { height: 480px;}*/
+    .popup-stats-detail .row .col-md-4 { width:100%;}
+    .popup-stats-detail .row .col-md-8 { width:100%;}
+    .timeline-btn { float:none; margin-top:0; margin-bottom:10px;}
+    .timeline-btn-view { text-align: center;}
+
+
+}
+
+@media screen and (max-width: 480px){
+
+    body { font-size: 15px; line-height: 22px;}	
+    .other-logo {width:87px; margin-top: 10px; margin-right: 85px;}
+    .search-top-main {top: 14px; right: 50px;}
+    .animated-arrow{margin: 14px 0 0 15px;}
+    #collapse_show {width: 328px; right:-50px;}
+    .slider-main{margin-bottom: 30px !important;}
+    .slider-main .slick-dots{bottom: -35px;}
+    .slider-text{bottom: 15px; padding:10px 18px 15px 18px;}
+    .hero-section .title{font-size: 20px; line-height:24px;}
+    .section-main h1, .section-main h2{font-size: 24px; line-height: 27px;}
+    .blog-listing h2{font-size: 13px; line-height: 18px;}
+    .fdi-content h2, .reformopedia-content h2{ font-size: 20px; line-height: 24px;}
+    .think-tank-category h2{font-size: 13px; line-height: 18px;}
+    .learn-more{font-size: 14px;}
+    .learn-more i{font-size: 16px;}
+    .blog-listing ul li{width: 100%;}
+    .blog-listing .row .col-md-6{ min-height: 100px;}
+    .owl-dots {display: none !important;}
+
+    /****************** ABOUT US ***********************/
+    .sidebar h2{font-size: 18px;}
+    .text-large{font-size: 18px; line-height: 26px;}
+    .text-large p{font-size: 16px; line-height: 26px;}
+
+    /****************** BLOG ***********************/
+    .intro-blog-info{padding-top: 40px;}
+    .header-blog h1{font-size: 16px; line-height: 18px; margin-top:0;}
+    .blog-post-wrapper h2, .blog-single-wrapper h1{ font-size: 20px; line-height: 24px;}
+    .header-blog .slider-text p {line-height: 18px;}
+
+    /****************** BLOG SINGLE ***********************/
+    .blog-single-content-more h2{font-size: 14px; line-height: 20px;}
+    .page-content, .map-product { padding-top: 80px;}
+    .header-blog .animated-arrow { margin:9px 0 0 15px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+    .breadcrumb > li{ font-size:12px; padding: 0 4px 0 22px;}
+    .breadcrumb > li + li::before{font-size: 16px;}
+    .interactive-map h1{font-size: 24px; line-height:27px;}
+    .interactive-map h2{font-size: 16px; line-height: 22px;}
+    .map-sec iframe {height:300px !important;}
+
+    /****************** AGRICULTURE ***********************/
+    .agriculture h1{font-size: 22px;line-height:26px;}
+    .agriculture-result-main{padding:50px 0 0 0;}
+    .agriculture-result h2{ font-size: 20px; line-height: 24px;}
+    .filter-main h2{font-size: 20px; line-height:24px;}
+
+    /****************** AGRICULTURE DETAIL ***********************/
+    .agriculture-company-detail h2 {font-size: 22px; line-height: 22px;}
+
+    /****************** POLICY LIBRARY ***********************/
+    .policy-library-category .row .col-xs-6{width:100%;}
+    #policy-show .close {top:-5px;}
+    .policy-library-search .close-search .suggestion-close-main-static { right:10px;}
+    .firms-search-main .close-search .suggestion-close {right:10px;}
+
+    /****************** POLICY DETAIL ***********************/
+
+    #no-more-tables td {padding-left:40% !important;}
+
+    /****************** ANALYSIS ***********************/
+    .analysis-hero-text h1{font-size: 22px;line-height:24px;}
+    .analysis-hero-text h1 a{font-size: 22px;line-height: 24px;}
+    .analysis-blog-wrapper h2{font-size: 18px;line-height: 22px;}
+    .analysis-blog-image {width: 100%;}
+    .analysis-blog-info {width: 100%; }
+
+    /******************  THINKTANK  ***********************/
+    .thinktank-blog-wrapper h2{font-size: 18px;line-height: 22px;}
+
+    /******************  THINKTANK DETAIL  ***********************/
+    .thinktank-single-wrapper h1{font-size:20px; line-height:24px;}
+    .thinktank-single-wrapper .thinktank-blog-image{height: 265px; margin: 20px 0 30px 0;}
+    .download-pdf {min-width:140px; font-size: 14px;}
+    .download-pdf .pull-left{ width:30px;margin-right: 10px; margin-top:0px;}
+    .thinktank-single-wrapper p, .about-the-author .subtitle{font-size: 18px;}
+    .author-detail .subtitle{font-size: 18px;}
+    .download-pdf p{ font-size: 15px;}
+    .about-the-author{padding-top: 20px;}
+    .about-the-author h2{font-size: 22px; line-height: 24px;}
+    .about-the-author p{font-size: 15px;}
+    .author-detail p{font-size: 15px;}
+    .thinktank-blog-info{ margin-bottom:20px;}
+
+    /****************** INTERACTIVE MAP ***********************/
+    .interactive-timeline .map-sec{ height:300px;}
+
+    .error-img img{margin-top:60px;}
+    .error-img p {font-size: 17px;}
+    .error-img b {font-size: 17px;}
+
+    .wptu-ticker-block ul{left:30px !important; top:4px;}
+    /*#wptu-ticker-1 > .wptu-ticker-title { background: #2096cd none repeat scroll 0 0 !important;}*/
+
+    /******************  POPUP  ***********************/
+    .popup-hero{ font-size: 30px;}
+    .popup-hero{height: 167px;}
+    .popup-stats-map{left: 0; position:relative;}
+    .popup-stats { margin-left:0px; margin-top:22px;}
+
+    img.two-fen-logo-main {top: 17%; height:18px;}
+
+    /******************  Our Team  ******************/
+    .our-team-main ul li{width:49%;}
+    img.two-fen-logo-single {bottom: -40px;}
+
+    .header-overlay{ height: 80px;}	
+    .blog-post-info ul li:last-child span { padding:0;}
+
+    .two-fen-logo{padding-top: 0px;}
+    .two-fen-logo ul li {font-size: 13px;  line-height: 18px;}
+
+    .stuff-page .interests-stuff .interests-input{ width:100%;}
+    .stuff-page .btn{ margin-top:26px;}
+
+    /******************  MailChimp  ******************/
+    .mc4wp-alert.mc4wp-success p{font-size:16px;}
+    .mc4wp-alert.mc4wp-notice p{font-size:16px;}
+    .mc4wp-alert.mc4wp-error p{font-size:16px;}
+    .author-wrapper img { width:100%!important;}
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+    .intro-blog-info ul li { padding:0;}
+    .blog-single-content ul li p, br { margin-top: 5px;}
+
+}
+
+@media screen and (max-width: 360px){
+
+    .other-logo { display:none;}
+    #collapse_show {width: 290px;}
+    .footer-blog .text-left, .footer-blog .text-right{text-align: center;}
+    .footer-blog ul{ width:100%; float:left; margin-bottom:7px;}
+    .footer-blog .footer-logo{ width:100%; text-align:center; padding:0; float:left;}	
+    .footer-blog .footer-logo img{ width:110px;}
+
+    /****************** AGRICULTURE ***********************/
+    .agriculture-thumb{width: 60px;}
+    .agriculture-result-content{margin-left: 85px;}
+
+    /****************** AGRICULTURE DETAIL ***********************/
+    .company-name{min-height: 60px;}
+    .agriculture-company{margin-left:85px;}
+    .company-overview h2 {font-size: 20px; line-height: 20px;}
+
+    /******************  THINKTANK DETAIL  ***********************/
+    .download-pdf {min-width:120px; font-size: 14px;margin-right: 10px;}
+    .download-pdf .pull-left{ width:25px;margin-right: 10px; margin-top:0px;}
+    .download-pdf p {font-size: 14px !important;}
+
+    #collapse_show .result, #data-search .result { padding:0 15px; font-size:13px; }
+    .chinese-firms-database #data-search .input-text {font-size: 16px; padding: 0 0 0px 35px;}
+
+    .two-fen-logo::before{ background-size:auto 20px; left: -45px;}
+    .two-fen-logo::after{ background-size:auto 20px; left: -2000px;}
+    .two-fen-logo{ padding-left: 0px; padding-top:30px; margin-bottom:7px; height: auto;}
+    .intro-blog-info ul li {top: 0;}
+    .our-team-main ul li{width:100%;}
+
+    .map-sec.timeline-inner-box { height:auto; margin-top:0px;}
+
+}
